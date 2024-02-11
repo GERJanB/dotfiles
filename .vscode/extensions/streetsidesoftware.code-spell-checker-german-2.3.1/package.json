@@ -1,0 +1,99 @@
+{
+	"name": "code-spell-checker-german",
+	"description": "German dictionary extension for VS Code.",
+	"version": "2.3.1",
+	"displayName": "German - Code Spell Checker",
+	"icon": "images/SpellCheck.png",
+	"private": true,
+	"publisher": "streetsidesoftware",
+	"type": "commonjs",
+	"engines": {
+		"vscode": "^1.67.0"
+	},
+	"sponsor": {
+		"url": "https://github.com/sponsors/streetsidesoftware"
+	},
+	"extensionKind": [
+		"workspace"
+	],
+	"categories": [
+		"Linters",
+		"Other"
+	],
+	"keywords": [
+		"German",
+		"VS Code Extension",
+		"Spelling Checker",
+		"dictionary",
+		"spelling"
+	],
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"qna": "marketplace",
+	"main": "./out/extension.js",
+	"capabilities": {
+		"virtualWorkspaces": true,
+		"untrustedWorkspaces": {
+			"supported": true
+		}
+	},
+	"contributes": {
+		"commands": [
+			{
+				"command": "cSpellExt_german.enableGerman",
+				"title": "Enable German Spell Checker Dictionary"
+			},
+			{
+				"command": "cSpellExt_german.disableGerman",
+				"title": "Disable German Spell Checker Dictionary"
+			},
+			{
+				"command": "cSpellExt_german.enableGermanWorkspace",
+				"title": "Enable German Spell Checker Dictionary in Workspace"
+			},
+			{
+				"command": "cSpellExt_german.disableGermanWorkspace",
+				"title": "Disable German Spell Checker Dictionary in Workspace"
+			}
+		]
+	},
+	"extensionDependencies": [
+		"streetsidesoftware.code-spell-checker"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/streetsidesoftware/vscode-cspell-dict-extensions"
+	},
+	"bugs": {
+		"url": "https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/issues"
+	},
+	"license": "GPL-3.0-or-later",
+	"scripts": {
+		"clean": "rimraf out",
+		"clean-build": "npm run clean && npm run build",
+		"publish-extension": "vsce publish",
+		"pack-extension": "vsce package",
+		"vscode:prepublish": "npm run build",
+		"build": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"test:cspell": "cspell -c cspell-ext.json samples",
+		"test:vscode": "node ../../test-runner/bin.mjs . --sample samples/seattle.md",
+		"test": "npm run test:cspell && npm run test:vscode"
+	},
+	"dependencies": {
+		"@cspell/dict-de-de": "^3.2.0"
+	},
+	"__metadata": {
+		"id": "911799f7-d784-4bdc-982b-f78afd435187",
+		"publisherId": "67600ca7-88fb-4104-9f7e-dd51c00facf2",
+		"publisherDisplayName": "Street Side Software",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1705147167066,
+		"pinned": false,
+		"preRelease": false
+	}
+}
