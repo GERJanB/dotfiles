@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Apps/cascadia">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cascadia – NettyServerHandler.java [cascadia.server.main]" opened="true" projectWorkspaceId="2bD6ILeW3C1ZAdTWQrK9F89xktv">
+              <option name="activationTimestamp" value="1707654626707" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-233.14015.106" />
+              <option name="buildTimestamp" value="1706158860000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="10" y="53" width="3420" height="1377" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1707646700068" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Apps/cascadia" />
+  </component>
+</application>

@@ -1,0 +1,195 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="cascadia" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/server/src/main/java/de/uol/swp/server/communication/netty/NettyServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="34" column="11" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/main/kotlin/de/uol/swp/client/util/ClientHandler.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="17" column="69" lean-forward="true" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/main/kotlin/de/uol/swp/client/util/ClientConnection.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-769">
+              <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="2" lastUsed="1707654336417" />
+    </fileType>
+    <fileType name="Kotlin">
+      <summary usageCount="2" lastUsed="1707654453838" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1707654336420" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="2" lastUsage="1707654453838" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cascadia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascadia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascadia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascadia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascadia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascadia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main/java/de/uol/swp/server}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascadia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main/java/de/uol/swp/server}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main/java/de/uol/swp/server/communication}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cascadia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main/java/de/uol/swp/server}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main/java/de/uol/swp/server/communication}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jbudde/Apps/cascadia/server/src/main/java/de/uol/swp/server/communication/netty}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1064000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12821637" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.13523391" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.12821637" right="0.13523391" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1214" y="391" key="SettingsEditor" timestamp="1707654429510">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1214" y="391" key="SettingsEditor/0.0.3440.1440/3440.0.1920.1080/5360.0.1920.1080@0.0.3440.1440" timestamp="1707654429510" />
+    <state x="1383" y="357" width="672" height="688" key="search.everywhere.popup" timestamp="1707654436773">
+      <screen x="0" y="0" width="3440" height="1440" />
+    </state>
+    <state x="1383" y="357" width="672" height="688" key="search.everywhere.popup/0.0.3440.1440/3440.0.1920.1080/5360.0.1920.1080@0.0.3440.1440" timestamp="1707654436773" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/src/main/kotlin/de/uol/swp/client/util/ClientHandler.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="69" lean-forward="true" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/kotlin/de/uol/swp/client/util/ClientConnection.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-769">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/de/uol/swp/server/communication/netty/NettyServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="34" column="11" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

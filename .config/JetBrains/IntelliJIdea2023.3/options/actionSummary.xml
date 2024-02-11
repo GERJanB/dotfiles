@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="GotoDeclaration">
+      <i c="1" l="1707654453762" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1707654431701" />
+    </e>
+    <e n="GotoTest">
+      <i c="2" l="1707654417162" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1707646738504" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1707646739372" />
+    </e>
+    <e n="ShowSettings">
+      <i c="2" l="1707654422108" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1707646689213" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
+      <i c="1" l="1707646759905" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$2">
+      <i c="1" l="1707646741409" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1707654436770" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="1" l="1707646704811" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1707646712233" />
+    </e>
+  </component>
+</application>

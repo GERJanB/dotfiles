@@ -1,0 +1,8 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="SynthWave '84 Contrast" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>
