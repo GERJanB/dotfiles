@@ -1,0 +1,19 @@
+#!/bin/sh
+
+desk() {
+  curl http://192.168.178.51/cm?cmnd=POWER%20TOGGLE
+}
+
+sofa() {
+  curl http://192.168.178.52/cm?cmnd=POWER%20TOGGLE
+}
+
+speakers() {
+  curl http://192.168.178.58/cm?cmnd=POWER%20TOGGLE
+}
+
+case "$1" in
+  desk) desk;;
+  sofa) sofa;;
+  speakers) speakers;;
+esac
