@@ -30,3 +30,4 @@ source ~/.bashrcFiles/pathExports.sh
 source ~/.bashrcFiles/bashCompletion.sh
 
 neofetch
+
