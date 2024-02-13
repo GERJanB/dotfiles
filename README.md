@@ -13,9 +13,11 @@
 - easyeffects
 - kitty
 - Neovim
-- spicetify
 - starship
 - Thunar
 - Librewolf
 - streamdeck-ui
 - pavucontrol
+- hyprpicker
+- swww
+- hydrapaper
