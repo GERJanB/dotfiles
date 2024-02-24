@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Dark Orange Default",
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "editor.rulers": [120],
+    "cSpell.language": "de-de,en"
+}
