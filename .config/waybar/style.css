@@ -30,8 +30,8 @@ window#waybar {
 }
 
 #workspaces button.active {
-    color: #FBB07E;
-    background-color: transparent;
+    color: black;
+    background-color: #FBB07E;
     border-radius: 16px;
 }
 
