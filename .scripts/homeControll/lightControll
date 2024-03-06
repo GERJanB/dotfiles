@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 desk() {
   curl http://192.168.178.51/cm?cmnd=POWER%20TOGGLE
