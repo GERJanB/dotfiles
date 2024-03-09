@@ -4,10 +4,5 @@
     "explorer.confirmDelete": false,
     "editor.rulers": [120],
     "cSpell.language": "de-de,en",
-    "cSpell.userWords": [
-        "Querschnittsprüfung",
-        "Quickchecks",
-        "Schwachstellenmanagement"
-    ],
     "workbench.editor.showTabs": "none"
 }
