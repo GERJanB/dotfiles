@@ -43,8 +43,7 @@ export const Header = () => Widget.Box(
                 ],
             }),
             Widget.Box([
-                Widget.Icon({ icon: icons.ui.time }),
-                Widget.Label({ label: uptime.bind().as(up) }),
+                Widget.Label({ label: "Jan Budde" }),
             ]),
         ],
     }),

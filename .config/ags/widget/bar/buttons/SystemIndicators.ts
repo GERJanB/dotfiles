@@ -68,7 +68,7 @@ const BluetoothIndicator = () => Widget.Overlay({
 })
 
 const NetworkIndicator = () => Widget.Icon().hook(network, self => {
-    const icon = network[network.primary || "wifi"]?.icon_name
+    const icon = network[network.primary || "wired"]?.icon_name
     self.icon = icon || ""
     self.visible = !!icon
 })
