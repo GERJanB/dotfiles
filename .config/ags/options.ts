@@ -153,11 +153,12 @@ const options = mkOptions(OPTIONS, {
             max: opt(6),
             favorites: opt([
                 [
-                    "firefox",
-                    "org.gnome.Nautilus",
-                    "org.gnome.Calendar",
+                    "librewolf",
+                    "nemo",
+                    "io.github.alainm23.planify",
                     "obsidian",
                     "discord",
+                    "steam-runtime",
                     "spotify",
                 ],
             ]),
@@ -166,7 +167,7 @@ const options = mkOptions(OPTIONS, {
 
     overview: {
         scale: opt(9),
-        workspaces: opt(7),
+        workspaces: opt(9),
         monochromeIcon: opt(true),
     },
 
@@ -220,7 +221,7 @@ const options = mkOptions(OPTIONS, {
     },
 
     hyprland: {
-        gaps: opt(1),
+        gaps: opt(0.8),
         inactiveBorder: opt("ff382d2e"),
         gapsWhenOnly: opt(true),
     },
