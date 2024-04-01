@@ -1,5 +1,4 @@
 import type Gtk from "gi://Gtk?version=3.0"
-import { ProfileSelector, ProfileToggle } from "./widgets/PowerProfile"
 import { Header } from "./widgets/Header"
 import { Volume, Microhone, SinkSelector, AppMixer } from "./widgets/Volume"
 import { Brightness } from "./widgets/Brightness"
@@ -48,7 +47,7 @@ const Settings = () => Widget.Box({
                     [SinkSelector, AppMixer],
                 ),
                 Microhone(),
-                Brightness(),
+                //Brightness(),
             ],
         }),
         Row(
@@ -56,8 +55,7 @@ const Settings = () => Widget.Box({
             [WifiSelection, BluetoothDevices],
         ),
         Row(
-            [ProfileToggle, DarkModeToggle],
-            [ProfileSelector],
+            [DarkModeToggle],
         ),
         Row([MicMute, DND]),
         Widget.Box({
