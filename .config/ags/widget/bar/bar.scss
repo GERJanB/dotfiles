@@ -22,7 +22,7 @@ $button-radius: $radius;
 }
 
 .bar {
-    background-color: $bg;
+    background-color: rgba(22, 14, 7, 0.5);
 
     .panel-button {
         @include panel-button;
