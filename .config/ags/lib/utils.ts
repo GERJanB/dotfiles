@@ -51,7 +51,8 @@ export async function sh(cmd: string | string[]) {
 
 export function forMonitors(widget: (monitor: number) => Gtk.Window) {
     const n = Gdk.Display.get_default()?.get_n_monitors() || 1
-    return range(n, 0).map(widget).flat(1)
+    //TODO: remove harcoded Value later
+    return range(1, 0).map(widget).flat(1)
 }
 
 /**
