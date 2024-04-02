@@ -69,13 +69,13 @@ const options = mkOptions(OPTIONS, {
                 "workspaces",
                 "taskbar",
                 "expander",
-                "messages",
             ]),
             center: opt<BarWidget[]>([
+                "messages",
                 "date",
+                "media",
             ]),
             end: opt<BarWidget[]>([
-                "media",
                 "expander",
                 "systray",
                 "colorpicker",
