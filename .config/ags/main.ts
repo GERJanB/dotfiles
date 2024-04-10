@@ -30,7 +30,6 @@ App.config({
     windows: () => [
         ...forMonitors(Bar),
         ...forMonitors(NotificationPopups),
-        ...forMonitors(ScreenCorners),
         ...forMonitors(OSD),
         Launcher(),
         Overview(),
