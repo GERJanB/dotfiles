@@ -77,3 +77,18 @@ function getsize () {
     du -sh "$*"
 }
 
+
+#AUR
+function cloneAur () {
+    git clone https://aur.archlinux.org/$1.git
+}
+
+function openRepo() {
+    url=$(cat .SRCINFO | grep "url" | sed -n 's/.*\(https\{0,1\}:\/\/[^ ]*\).*/\1/p')
+    librewolf $url
+}
+
+
+function downloadAudio() {
+    yt-dlp --extract-audio --audio-format mp3 --add-metadata -o "/home/jbudde/Nextcloud/Music/%(title)s.%(ext)s" $1
+}
