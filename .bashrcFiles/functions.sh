@@ -89,6 +89,3 @@ function openRepo() {
 }
 
 
-function downloadAudio() {
-    yt-dlp --extract-audio --audio-format mp3 --add-metadata -o "/home/jbudde/Nextcloud/Music/%(title)s.%(ext)s" $1
-}

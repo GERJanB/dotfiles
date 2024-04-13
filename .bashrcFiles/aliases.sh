@@ -42,7 +42,6 @@ alias "sudoedit"='function _sudoedit(){ sudo -e "$1";};_sudoedit'
 # Stuff for Games
 alias bakkes="WINEFSYNC=1 protontricks -c 'wine ~/.steam/steam/steamapps/compatdata/252950/pfx/drive_c/Program\ Files/BakkesMod/BakkesMod.exe' 252950"
 alias fs22="cd /home/jbudde/.steam/steam/steamapps/compatdata/1248130/pfx/drive_c/users/steamuser/Documents"
-alias fixhl="sudo sysctl vm.max_map_count=10485776"
 
 
 #enable color support of ls

@@ -28,6 +28,7 @@ source ~/.bashrcFiles/functions.sh
 source ~/.bashrcFiles/aliases.sh
 source ~/.bashrcFiles/pathExports.sh
 source ~/.bashrcFiles/bashCompletion.sh
+source ~/.bashrcFiles/audioDownloads.sh
 
 neofetch
 
