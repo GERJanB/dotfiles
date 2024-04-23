@@ -88,4 +88,12 @@ function openRepo() {
     librewolf $url
 }
 
+function updatePkg() {
+    git reset --hard;
+    git clean -xffd && git submodule foreach git clean -xffd;
+    gfpr;
+    makepkg -si;
+    git clean -xffd && git submodule foreach git clean -xffd;
+}
+
 
