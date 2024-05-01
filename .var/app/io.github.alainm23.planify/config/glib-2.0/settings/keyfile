@@ -1,0 +1,12 @@
+[io/github/alainm23/planify]
+window-maximized=true
+show-support-banner=true
+inbox-project-id='670877b0-ce32-4707-8745-070e09289969'
+local-inbox-project-id='670877b0-ce32-4707-8745-070e09289969'
+version='4.6'
+homepage-item='Today'
+projects-sort-by='Alphabetically'
+run-in-background=true
+window-height=1440
+window-width=3440
+dark-mode=true
