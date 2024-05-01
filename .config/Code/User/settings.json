@@ -4,5 +4,19 @@
     "explorer.confirmDelete": false,
     "editor.rulers": [120],
     "cSpell.language": "de-de,en",
-    "workbench.editor.showTabs": "none"
+    "workbench.editor.showTabs": "none",
+    "vim.enableNeovim": true,
+    "vim.neovimPath": "/usr/bin/nvim",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["ö", "ö"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.visualModeKeyBindings": [
+        {
+            "before": ["ö", "ö"],
+            "after": ["<Esc>"]
+        }
+    ]
 }
