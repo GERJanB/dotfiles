@@ -156,6 +156,7 @@ const options = mkOptions(OPTIONS, {
                     "librewolf",
                     "nemo",
                     "io.github.alainm23.planify",
+                    "nextcloud",
                     "obsidian",
                     "discord",
                     "steam-runtime",
