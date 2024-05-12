@@ -14,9 +14,6 @@ export const substitutes = {
 
 export default {
     missing: "image-missing-symbolic",
-    nix: {
-        nix: "nixos-symbolic",
-    },
     app: {
         terminal: "terminal-symbolic",
     },
