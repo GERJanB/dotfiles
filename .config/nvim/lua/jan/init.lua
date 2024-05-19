@@ -2,6 +2,7 @@ require("jan.remap")
 
 vim.cmd([[
 	set clipboard+=unnamedplus
+	set relativenumber
 ]])
 
 -- Completion Plugin Setup
