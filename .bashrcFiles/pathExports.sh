@@ -7,6 +7,7 @@ export MANPATH=$MANPATH:/usr/local/texlive/2023/texmf-dist/doc/man
 export INFOPATH=$INFOPATH:/usr/local/texlive/2023/texmf-dist/doc/info
 
 export XDG_DATA_DIRS="/var/lib/flatpak/exports/share:/home/jbudde/.local/share/flatpak/exports/share:${XDG_DATA_DIRS}"
+export XDG_CONFIG_HOME="/home/jbudde/.config/"
 
 
 export SUDO_EDITOR="nvim"
