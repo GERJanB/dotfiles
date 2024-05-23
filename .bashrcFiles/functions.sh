@@ -96,4 +96,19 @@ function updatePkg() {
     git clean -xffd && git submodule foreach git clean -xffd;
 }
 
+function setWallpaper() {
+	swww img "$*";
+	wal -i "$*"
+	rm ~/.librewolf/vl1qfjiv.default-default/chrome/img/background.png
+	cp "$*" ~/.librewolf/vl1qfjiv.default-default/chrome/img/background.png
+}
 
+function setSinkSpeakers() {
+	device=$(pactl list sinks short | awk '"hdmi" {print $2}' | grep "hdmi")
+	pactl set-default-sink $device
+}
+
+function setSinkHeadset() {
+	device=$(pactl list sinks short | awk '"Corsair" {print $2}' | grep "Corsair")
+	pactl set-default-sink $device
+}

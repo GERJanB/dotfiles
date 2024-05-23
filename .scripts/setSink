@@ -1,0 +1,16 @@
+#!/bin/bash
+
+setSinkSpeakers() {
+	device=$(pactl list sinks short | awk '"hdmi" {print $2}' | grep "hdmi")
+	pactl set-default-sink $device
+}
+
+setSinkHeadset() {
+	device=$(pactl list sinks short | awk '"Corsair" {print $2}' | grep "Corsair")
+	pactl set-default-sink $device
+}
+
+case "$1" in 
+	speakers) setSinkSpeakers;;
+	headset) setSinkHeadset;;
+esac
